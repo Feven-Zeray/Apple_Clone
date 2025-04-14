@@ -5,7 +5,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter basename="/Apple-Clone/">
+    <BrowserRouter basename="/Apple_Clone/">
       <App />
     </BrowserRouter>
   </StrictMode>
